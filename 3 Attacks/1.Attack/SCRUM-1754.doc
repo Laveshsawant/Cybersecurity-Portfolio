@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-1754] Wazuh Alert - Rule 60110 - Severity 3</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://laveshs051.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-1754]&nbsp;<a href="https://laveshs051.atlassian.net/browse/SCRUM-1754">Wazuh Alert - Rule 60110 - Severity 3</a>
+            <span class="subText">
+               Created: 05/Jul/26                   &nbsp;Updated: 07/Jul/26
+
+                                    &nbsp;Due: 06/Jul/26
+                                                    &nbsp;Resolved: 07/Jul/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Malicious Ingress File Download</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://laveshs051.atlassian.net/secure/BrowseProject.jspa?id=10000">Soc Lab</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                id="word_reporter_712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                href="https://laveshs051.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A3b8a3cbb-da59-490f-bf68-8e04925d3bc3">
+                    Lavesh Sawant
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                id="word_assignee_712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                href="https://laveshs051.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A3b8a3cbb-da59-490f-bf68-8e04925d3bc3">
+                    Lavesh Sawant
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-11803-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-11803-value" class="value" bgcolor="#ffffff" width="80%">      0|i00atj:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_10001-11803-value" class="value" bgcolor="#ffffff" width="80%"><div class="shorten" id="customfield_10001-field">
+    <span></span>
+</div>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Start date:</b></td>
+                <td id="customfield_10015-11803-value" class="value" bgcolor="#ffffff" width="80%">          <span title="05/Jul/26"><time datetime="2026-07-05">05/Jul/26</time></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-11803-value" class="value" bgcolor="#ffffff" width="80%">SCRUM Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Rule ID: 60110<br/>
+Severity: 3<br/>
+Title: User account changed<br/>
+Timestamp: 2026-07-05T08:58:55.489+0000<br/>
+Pretext: WAZUH Alert</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                id="word_commented_712020:3b8a3cbb-da59-490f-bf68-8e04925d3bc3"
+                href="https://laveshs051.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A3b8a3cbb-da59-490f-bf68-8e04925d3bc3">
+                    Lavesh Sawant
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">07/Jul/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p>Incident Report:(192.168.189.128) from 192.168.189.129 at <span class="error">&#91;Time&#93;</span>. Suspicious tool transfer detected via local staging server. Detected by Splunk (EventCode 11), Wazuh (Rule 60114), and host integrity monitoring. File landing identified on user desktop.<br/>
+Active Response: Alert Generated. Severity: HIGH.</p>
+
+<p>Time of Activity: <tt>2026-07-06</tt> at 11:20</p>
+
+<p>Reason for classifying as true positive: Checked the telemetry logs in Splunk and confirmed that an outbound HTTP GET request was made to the internal staging asset 192.168.189.129 over port 80. Cross-referencing Sysmon EventCode 11 confirmed a file creation event writing 'soc_alert.bat' directly into the user directory. No legitimate administrative workflows account for this script execution pattern.</p>
+
+<p>Reason for escalating the alert: Detected Ingress Tool Transfer behaviors bypassing static host prevention filters. The activity successfully maps to the MITRE ATT&amp;CK framework technique T1105 (Ingress Tool Transfer) with Sysmon Event Code 11 tracking file system anomalies.</p>
+
+<p>Recommended Remediation Actions: Isolate the endpoint from the virtual switch, locate and permanently purge the 'soc_alert.bat' binary from the desktop, and run a full credential audit on the affected machine.</p>
+        </td></tr>
+            </table>
+Generated at Tue Jul 07 10:49:30 UTC 2026 by Lavesh Sawant using Jira 1001.0.0-SNAPSHOT#100292-rev:c5fe927afdde415031546c632fc491f4848e02e5.
+
+</body>
+</html>
